@@ -1,13 +1,10 @@
-## Introduction
+## Introduction and Business Use Case
 
 This project analyzes company registration statistics to understand market trends and economic conditions. By examining periods of high and low business activity, the insights gained assist in strategic planning and forecasting. This information is essential for businesses to align their strategies with market dynamics and for companies offering products or services to other businesses to assess their performance and market positioning.
 
-![output.png](resources%2Foutput.png)
-
-## Business Use Case
-
 Understanding the impact of legal and regulatory changes on company registrations provides insights into how policy shifts influence business activity. Favorable changes, such as simplified registration processes or tax incentives, tend to boost new registrations. Conversely, stricter regulations or increased compliance costs can deter new business formations, resulting in a decrease in registrations.
 
+![output.png](resources%2Foutput.png)
 
 ![seasonality.png](resources%2Fseasonality.png)
 
