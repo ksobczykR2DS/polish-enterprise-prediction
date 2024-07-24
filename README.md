@@ -4,9 +4,9 @@ This project analyzes company registration statistics to understand market trend
 
 Understanding the impact of legal and regulatory changes on company registrations provides insights into how policy shifts influence business activity. Favorable changes, such as simplified registration processes or tax incentives, tend to boost new registrations. Conversely, stricter regulations or increased compliance costs can deter new business formations, resulting in a decrease in registrations.
 
-![output.png](resources%2Foutput.png)
+![business_foundation_plot.png](resources%2Fbusiness_foundation_plot.png)
 
-![seasonality.png](resources%2Fseasonality.png)
+![seasonality_and_trend.png](resources%2Fseasonality_and_trend.png)
 
 ## Model Evaluation
 
